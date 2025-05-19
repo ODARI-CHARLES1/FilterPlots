@@ -6,7 +6,6 @@ The three graphs below visualize the input and output signal characteristics in 
 - **2nd Graph**: Plot of magnitude vs. angular frequency (ω).  
 - **3rd Graph**: Plot of phase vs. angular frequency (ω).
 
----
 
 ## 🧬 Cloning the Repository
 
@@ -14,14 +13,12 @@ The three graphs below visualize the input and output signal characteristics in 
 git clone https://github.com/ODARI-CHARLES/FilterPlots.git
 ```
 
----
 
 ## 📜 License
 
 This project is licensed under the [MIT License.](https://opensource.org/license/mit)
 Feel free to use, modify, and distribute as per the terms of the license.
 
----
 
 ## 📬 Follow Me
 
