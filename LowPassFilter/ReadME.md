@@ -1,4 +1,4 @@
-# 📊 Visualization of Input and Output Signal: Magnitude, Phase, and Omega
+## Visualization of Input and Output signal characteristics in terms of phase,magnitude and angular frequency (LOW PASS FILTER)
 
 The three graphs below visualize the input and output signal characteristics in terms of their waveforms, magnitude response, and phase response:
 
