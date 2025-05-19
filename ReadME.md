@@ -10,9 +10,9 @@ The three graphs below visualize the input and output signal characteristics in 
 
 ## 🧬 Cloning the Repository
 
-```bash
+```
 git clone https://github.com/ODARI-CHARLES/FilterPlots.git
-
+```
 
 ---
 
